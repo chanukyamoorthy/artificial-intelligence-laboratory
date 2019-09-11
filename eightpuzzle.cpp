@@ -1,3 +1,7 @@
+// Reference Links
+// https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
+// https://blog.goodaudience.com/solving-8-puzzle-using-a-algorithm-7b509c331288
+
 #include<bits/stdc++.h>
 using namespace std;
 struct node{
